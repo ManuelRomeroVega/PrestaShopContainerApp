@@ -1,1 +1,2 @@
 # PrestaShopContainerApp
+Realice un proyecto de implementación de un servicio de PrestaShop utilizando Azure Container Apps, con el objetivo de optimizar el rendimiento y la escalabilidad de la plataforma. Las aplicaciones contenidas se configuraron para ser auto-escalables, permitiendo ajustar dinámicamente el número de instancias según la demanda. Para la gestión y automatización del despliegue, se empleó Terraform, asegurando consistencia y eficiencia en el proceso de implementación.
