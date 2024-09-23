@@ -49,6 +49,6 @@ resource "azurerm_container_app" "app-iship-178-001" {
 
   secret {
     name  = "registry-username"
-    value = "x2Lr8cyHXKHQBHxu5Bmb5vLdb4SanUW7OJ441h1poT+ACRCxiUvM"
+    value = "secret-key-value-here"
   }
 }
